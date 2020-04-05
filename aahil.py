@@ -74,11 +74,11 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print "\033[1;96m ============================================================="
-print  """\033[1;96m [¤] \x1b[0;36mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[0;36mWHATSAPP : 085691015635\x1b[1;96m  
-\033[1;96m [¤] \x1b[0;36mSTAY HOME\x1b[1;96m      [¤] \x1b[0;36mFACEBOOK : tools termux\x1b[1;96m  
-\033[1;96m [¤] \x1b[0;36mTOOLS BY AAHIL\x1b[1;96m  [¤] \x1b[0;36mYOUTUBE  : A-Creations\x1b[1;96m"""
-print " \x1b[1;93m============================================================="
+print "\033[1;93m⚔═════════════════☠═════════════════⚔"⚔═════════════════☠═════════════════⚔
+print  """\033[1;96m [¤] \x1b[0;36mASSALAM O ALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[0;36mWHATSAPP : 085691015635\x1b[1;96m  
+\033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;36mFACEBOOK : TERMUX TOOLS\x1b[1;96m  
+\033[1;93m [¤] \x1b[0;31mTOOLS BY AAHIL\x1b[1;96m  [¤] \x1b[0;36mYOUTUBE  : AAHIL CREATIONSs\x1b[1;96m"""
+print " \x1b[1;93m⚔════════════════☠═════════════════⚔"⚔══════════════════☠═════════════════⚔
 
 CorrectUsername = "rana"
 CorrectPassword = "rana"
